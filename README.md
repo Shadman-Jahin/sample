@@ -144,7 +144,7 @@ document.ready(function () {
 
 <!-- automatic link (disabled) -->
 
-`https://google.com/`
+`https://google.com/` **this is disabled**
 
 <!-- --------------------- -->
 <!-- markdown link -->
