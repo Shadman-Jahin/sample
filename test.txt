@@ -2,5 +2,5 @@ first commit
 second commit
 third commit
 
-this is modified from remote 1
-modified from remote 2
+this is for the practice of issue section.
+
